@@ -1,0 +1,44 @@
+{
+    "appKeys": {
+        "KEY_CONDITIONS": 1,
+        "KEY_TEMPERATURE": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "s.amara77@yahoo.com",
+    "longName": "Camo",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/BlackOpsOne-Regular.ttf",
+                "name": "FONT_BLACK_OPS_20",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "fonts/BlackOpsOne-Regular.ttf",
+                "name": "FONT_BLACK_OPS_44",
+                "targetPlatforms": null,
+                "type": "font"
+            },
+            {
+                "file": "fonts/perfect-dos-vga.ttf",
+                "name": "FONT_PERFECT_DOS_48",
+                "targetPlatforms": null,
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Camo",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "2ea2f1ea-fed5-4433-b42e-d0c66bf37708",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
